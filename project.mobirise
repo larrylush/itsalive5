@@ -22,7 +22,7 @@
         "display7Font": "Raleway",
         "display7Size": "1.2",
         "display4Font": "Raleway",
-        "display4Size": "1",
+        "display4Size": ".5",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
